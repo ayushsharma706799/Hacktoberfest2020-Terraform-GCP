@@ -1,1 +1,1 @@
-# Hacktoberfest2020-Terraform-AWS
+# Hacktoberfest2020-Terraform-GCP
